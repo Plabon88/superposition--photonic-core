@@ -68,3 +68,11 @@ Photodiode Sampling: Captures interference output signals via integrated high-sp
 Claim 1: A photonic compute core layout utilizing a Fibonacci phyllotaxis geometry (\theta \approx 137.50776^\circ) for optical waveguide and node positioning to prevent spatial crosstalk and minimize optical loss.
 Claim 2: A 256-chip array super-card infrastructure providing 512,000 integrated analog interference nodes interconnected via a 64-channel WDM optical comb.
 Claim 3: A compilation method (P-ISA) translating digital tensor matrices into continuous thermo-optic phase shifts (0\text{--}3.3\text{V}) for coherent interference-based matrix-vector operations.
+
+## ⚖️ Intellectual Property & Licensing Notice
+
+Copyright (c) 2026 Md. Nazmul Ahsan Plabon. All rights reserved.
+
+This architecture, including the mathematical modeling for the Fibonacci Phyllotaxis spatial node distribution, Python simulation algorithms, and the Photonic Instruction Set Architecture (P-ISA) blueprint, is the original intellectual property of the author.
+
+This project is officially licensed under the GNU General Public License v3.0 (GPL-3.0). Any commercial hardware implementation, fabrication adaptation, or derivative layout synthesis by chip design entities or foundries MUST comply with the GPL-3.0 copyleft terms, meaning the physical or digital derivative designs must also be made fully open-source. For proprietary commercial licensing or strategic hardware partnerships, please contact the author directly.
